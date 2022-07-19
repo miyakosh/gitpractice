@@ -1,1 +1,1 @@
-git講座
+git講座　master→main　ブランチ
